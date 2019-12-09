@@ -1,7 +1,21 @@
 import 'dart:math' as math;
 //import 'package:evolution/evolution.dart';
 
-///Ackley's Function
+/// Ackley's Function
+///
+///
+/// In mathematical optimization, the Ackley function is a
+/// non-convex function used as a performance test problem
+/// for optimization algorithms.
+/// It was proposed by David Ackley in his 1987 PhD Dissertation.
+///
+/// Ackley, D. H. (1987) "A connectionist machine for genetic hillclimbing", Kluwer Academic Publishers, Boston MA.
+///
+/// This version is defined on an n-dimensional domain.
+///
+/// The global minimum is at (0, ..., 0)
+///
+
 double ackley(List<double> variable) {
   final int dim = variable.length;
 
