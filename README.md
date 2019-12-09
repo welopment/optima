@@ -21,7 +21,6 @@ dependencies:
 
 This shows howto use optima to benchmark the evolutionary algorithms provided by the evolution package.
 
-
 ```dart
 import 'package:evolution/evolution.dart';
 

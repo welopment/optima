@@ -5,3 +5,4 @@ export './src/parabola.dart';
 export './src/rastrigin.dart';
 export './src/rosenbrock.dart';
 export './src/sphere.dart';
+export './src/versions.dart';

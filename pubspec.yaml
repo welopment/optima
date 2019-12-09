@@ -6,6 +6,6 @@ homepage: "https://github.com/welopment/optima/blob/master/pubspec.yaml"
 environment:
   sdk: ">=2.6.0 <3.0.0"
 dependencies:
-  evolution: ^0.0.1
+  evolution: 
     #path: ../evolutionSimple/
 
