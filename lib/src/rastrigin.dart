@@ -18,8 +18,8 @@ import 'dart:math' as math;
 /// H. Mühlenbein, D. Schomisch and J. Born. "The Parallel Genetic Algorithm as Function Optimizer ". Parallel Computing, 17, pages 619–632, 1991.
 ///
 /// This version is defined on an n-dimensional domain.
-/// 
-/// It has a global minimum at 
+///
+/// It has a global minimum at
 
 double rastrigin(List<double> x) {
   int numberOfVariables = x.length;

@@ -1,7 +1,6 @@
 import 'dart:math' as math;
 //import 'package:evolution/evolution.dart';
 
-
 ///
 double magicSquare(List<double> p) {
   int n = math.sqrt(p.length).toInt();
