@@ -1,6 +1,3 @@
-import 'dart:math' as math;
-//import 'package:evolution/evolution.dart';
-
 ///////////////////////
 /// sphere function
 double sphere(List<double> a) {

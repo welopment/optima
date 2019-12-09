@@ -27,3 +27,12 @@ double Function(List<double>) ackley100 = (l) {
 
   return ackley(m);
 };
+
+///
+double Function(List<double>) ackley10 = (l) {
+  List<double> m = l.map((d) {
+    return d - 10.0;
+  }).toList();
+
+  return ackley(m);
+};

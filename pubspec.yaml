@@ -1,11 +1,10 @@
 name: "optima"
-version: "0.0.1"
+version: "0.1.2"
 author: "Michael Bürgerling <michael.buergerling@gmail.com>"
-description: "A Collection of test functions for optimization algorithms. "
+description: "A collection of n-dimensional test functions to evaluate performance, precision, and robustness of optimization algorithms."
 homepage: "https://github.com/welopment/optima/blob/master/pubspec.yaml"
 environment:
   sdk: ">=2.6.0 <3.0.0"
 dependencies:
-  evolution: 
-    #path: ../evolutionSimple/
-
+  evolution:
+    ^0.1.7
