@@ -1,7 +1,8 @@
 name: "optima"
 version: "0.0.1"
 author: "Michael Bürgerling <michael.buergerling@gmail.com>"
-description: "Test functions for optimization algorithms. "
+description: "A Collection of test functions for optimization algorithms. "
 homepage: "https://github.com/welopment/optima/blob/master/pubspec.yaml"
 environment:
   sdk: ">=2.6.0 <3.0.0"
+
